@@ -21,25 +21,3 @@
     fill: #ec008c;
     opacity: 1;
 }
-.series:hover .bar {
-    fill: #ec008c;
-    opacity: 1;
-}
-
-#dogs{
-  fill:#0e23e0;
-  opacity: 1;
-}
-
-#cat{
-  fill:#000000;
-  opacity: 1;
-}
-
-#tigers{
-  fill:#e9650d;
-  opacity: 1;
-}
-.idk{
-  border-style: solid;
-}
